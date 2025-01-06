@@ -5,6 +5,9 @@ Unityプロジェクト開始時のフォルダー作成を楽にしてくれる
 下記記事を元に作成しました。<br>
 https://qiita.com/kazuki_kuriyama/items/6d9f7368f7b4eef02482
 
+# ダウンロード方法
+[release](https://github.com/hamster3156/CreateNewFolders/releases/tag/v.1.0.0)からunitypackageをダウンロードできます。
+
 # 追加した機能
 [こちら](https://qiita.com/game_hamster/items/11b68ee7454ca1ebeed1)の記事にまとめました。<br>
 参考記事から追加した機能は下の通りです。<br>
